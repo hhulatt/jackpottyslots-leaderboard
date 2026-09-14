@@ -1,58 +1,56 @@
 {
-  "cycle": "2026-09-01",
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
-  "cycleMode": "monthly",
+  "cycle": "2026-09-07",
+  "periodStart": "2026-09-07",
+  "periodEnd": "2026-09-13",
+  "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "prizePool": 250,
+  "prizePool": 50,
   "prizes": [
-    100,
-    60,
-    40,
-    30,
-    20
+    25,
+    15,
+    10
   ],
   "boardSize": 25,
-  "totalWagered": 2162.14,
-  "playerCount": 11,
+  "totalWagered": 1755.1,
+  "playerCount": 8,
   "cacheUpdatedAt": "2026-09-14 00:41:46",
-  "updatedAt": "2026-09-14T00:41:46.634Z",
+  "updatedAt": "2026-09-14T00:41:47.003Z",
   "entries": [
     {
       "rank": 1,
       "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
       "wagered": 1165.17,
-      "prize": 100
+      "prize": 25
     },
     {
       "rank": 2,
       "masked": "Po***ap",
       "hash": "9c43543769951b21",
-      "wagered": 839.47,
-      "prize": 60
+      "wagered": 455.51,
+      "prize": 15
     },
     {
       "rank": 3,
       "masked": "Te******33",
       "hash": "a50f97064a80e5e0",
       "wagered": 47.44,
-      "prize": 40
+      "prize": 10
     },
     {
       "rank": 4,
       "masked": "po***99",
       "hash": "0eb57b00714b01f0",
       "wagered": 31.77,
-      "prize": 30
+      "prize": 0
     },
     {
       "rank": 5,
       "masked": "sc******ot",
       "hash": "b298b48cdb83ba2d",
       "wagered": 23.91,
-      "prize": 20
+      "prize": 0
     },
     {
       "rank": 6,
@@ -63,34 +61,13 @@
     },
     {
       "rank": 7,
-      "masked": "ol****m3",
-      "hash": "be9b435c82a8e1d5",
-      "wagered": 10.22,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "Su**********Md",
-      "hash": "c73b8abf7d071340",
-      "wagered": 9.12,
-      "prize": 0
-    },
-    {
-      "rank": 9,
       "masked": "Ja*********23",
       "hash": "3bb72db271d47119",
       "wagered": 8.99,
       "prize": 0
     },
     {
-      "rank": 10,
-      "masked": "Vr*****ma",
-      "hash": "4a7a9d4121e5a048",
-      "wagered": 3.75,
-      "prize": 0
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "masked": "ro**92",
       "hash": "441d84a5df86fba2",
       "wagered": 3.38,
