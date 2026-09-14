@@ -5,6 +5,7 @@
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
+  "fullUsernames": true,
   "prizePool": 50,
   "prizes": [
     25,
@@ -12,9 +13,24 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 0,
-  "playerCount": 0,
-  "cacheUpdatedAt": "2026-09-14 04:15:48",
-  "updatedAt": "2026-09-14T04:15:48.164Z",
-  "entries": []
+  "totalWagered": 63.94,
+  "playerCount": 2,
+  "cacheUpdatedAt": "2026-09-14 15:25:05",
+  "updatedAt": "2026-09-14T15:25:05.888Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "SjZoro",
+      "hash": "f245318d5ba7744c",
+      "wagered": 34.88,
+      "prize": 25
+    },
+    {
+      "rank": 2,
+      "masked": "maisiemoo69",
+      "hash": "d51c7b5bbc625c75",
+      "wagered": 29.05,
+      "prize": 15
+    }
+  ]
 }
