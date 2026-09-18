@@ -13,23 +13,23 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 1542.7,
-  "playerCount": 7,
-  "cacheUpdatedAt": "2026-09-17 04:18:08",
-  "updatedAt": "2026-09-17T04:18:08.489Z",
+  "totalWagered": 1555.9,
+  "playerCount": 8,
+  "cacheUpdatedAt": "2026-09-18 00:59:27",
+  "updatedAt": "2026-09-18T00:59:27.959Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Dirsty",
       "hash": "51a54b22bf3f6d0b",
-      "wagered": 493.31,
+      "wagered": 503.66,
       "prize": 25
     },
     {
       "rank": 2,
       "masked": "Terry01233",
       "hash": "a50f97064a80e5e0",
-      "wagered": 440.22,
+      "wagered": 440.25,
       "prize": 15
     },
     {
@@ -43,14 +43,14 @@
       "rank": 4,
       "masked": "maisiemoo69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 159.68,
+      "wagered": 162.16,
       "prize": 0
     },
     {
       "rank": 5,
       "masked": "SjZoro",
       "hash": "f245318d5ba7744c",
-      "wagered": 129.93,
+      "wagered": 130.24,
       "prize": 0
     },
     {
@@ -65,6 +65,13 @@
       "masked": "catpot",
       "hash": "8d39fd93ebaf6bfc",
       "wagered": 7.42,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "Jackthegoat23",
+      "hash": "3bb72db271d47119",
+      "wagered": 0.03,
       "prize": 0
     }
   ]
