@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-09-14",
-  "periodStart": "2026-09-14",
-  "periodEnd": "2026-09-20",
+  "cycle": "2026-09-21",
+  "periodStart": "2026-09-21",
+  "periodEnd": "2026-09-27",
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -13,94 +13,17 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 2355.7,
-  "playerCount": 12,
-  "cacheUpdatedAt": "2026-09-20 04:18:04",
-  "updatedAt": "2026-09-20T04:18:04.964Z",
+  "totalWagered": 4.75,
+  "playerCount": 1,
+  "cacheUpdatedAt": "2026-09-21 00:48:56",
+  "updatedAt": "2026-09-21T00:48:56.966Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "maisiemoo69",
-      "hash": "d51c7b5bbc625c75",
-      "wagered": 739.97,
-      "prize": 25
-    },
-    {
-      "rank": 2,
-      "masked": "Dirsty",
-      "hash": "51a54b22bf3f6d0b",
-      "wagered": 503.99,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "masked": "Terry01233",
-      "hash": "a50f97064a80e5e0",
-      "wagered": 440.45,
-      "prize": 10
-    },
-    {
-      "rank": 4,
-      "masked": "Pottyap",
-      "hash": "9c43543769951b21",
-      "wagered": 212.81,
-      "prize": 0
-    },
-    {
-      "rank": 5,
       "masked": "foxlocks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 201.19,
-      "prize": 0
-    },
-    {
-      "rank": 6,
-      "masked": "SjZoro",
-      "hash": "f245318d5ba7744c",
-      "wagered": 130.24,
-      "prize": 0
-    },
-    {
-      "rank": 7,
-      "masked": "JakeJar2112",
-      "hash": "f24ac552443e3ae0",
-      "wagered": 99.47,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "WormPot",
-      "hash": "ed380957fe38159f",
-      "wagered": 14.49,
-      "prize": 0
-    },
-    {
-      "rank": 9,
-      "masked": "catpot",
-      "hash": "8d39fd93ebaf6bfc",
-      "wagered": 7.42,
-      "prize": 0
-    },
-    {
-      "rank": 10,
-      "masked": "Darkxpotty",
-      "hash": "5a10919bfbbfb6c9",
-      "wagered": 3.75,
-      "prize": 0
-    },
-    {
-      "rank": 11,
-      "masked": "BadaPotty",
-      "hash": "c95964549ab7fdc1",
-      "wagered": 1.9,
-      "prize": 0
-    },
-    {
-      "rank": 12,
-      "masked": "Jackthegoat23",
-      "hash": "3bb72db271d47119",
-      "wagered": 0.03,
-      "prize": 0
+      "wagered": 4.75,
+      "prize": 25
     }
   ]
 }

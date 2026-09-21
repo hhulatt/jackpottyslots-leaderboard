@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 4517.85,
+  "totalWagered": 4709.85,
   "playerCount": 19,
-  "cacheUpdatedAt": "2026-09-20 04:18:04",
-  "updatedAt": "2026-09-20T04:18:04.868Z",
+  "cacheUpdatedAt": "2026-09-21 00:48:56",
+  "updatedAt": "2026-09-21T00:48:56.786Z",
   "entries": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "masked": "Pottyap",
       "hash": "9c43543769951b21",
-      "wagered": 1052.28,
+      "wagered": 1210.87,
       "prize": 60
     },
     {
@@ -52,7 +52,7 @@
       "rank": 5,
       "masked": "foxlocks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 201.19,
+      "wagered": 224.36,
       "prize": 20
     },
     {
@@ -73,14 +73,14 @@
       "rank": 8,
       "masked": "potty99",
       "hash": "0eb57b00714b01f0",
-      "wagered": 31.77,
+      "wagered": 36.81,
       "prize": 0
     },
     {
       "rank": 9,
       "masked": "scrapicpot",
       "hash": "b298b48cdb83ba2d",
-      "wagered": 23.91,
+      "wagered": 28.98,
       "prize": 0
     },
     {
@@ -94,7 +94,7 @@
       "rank": 11,
       "masked": "WormPot",
       "hash": "ed380957fe38159f",
-      "wagered": 14.49,
+      "wagered": 14.64,
       "prize": 0
     },
     {
