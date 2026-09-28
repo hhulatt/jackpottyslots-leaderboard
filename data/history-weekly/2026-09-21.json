@@ -1,0 +1,71 @@
+{
+  "cycle": "2026-09-21",
+  "periodStart": "2026-09-21",
+  "periodEnd": "2026-09-27",
+  "cycleMode": "weekly",
+  "cycleStartDay": 1,
+  "timezone": "Europe/London",
+  "fullUsernames": true,
+  "prizePool": 50,
+  "prizes": [
+    25,
+    15,
+    10
+  ],
+  "boardSize": 25,
+  "totalWagered": 24014.85,
+  "playerCount": 7,
+  "cacheUpdatedAt": "2026-09-28 01:23:07",
+  "updatedAt": "2026-09-28T01:23:07.706Z",
+  "entries": [
+    {
+      "rank": 1,
+      "masked": "maisiemoo69",
+      "hash": "d51c7b5bbc625c75",
+      "wagered": 19445.21,
+      "prize": 25
+    },
+    {
+      "rank": 2,
+      "masked": "JustPotty",
+      "hash": "5e7091c445cad317",
+      "wagered": 4216.85,
+      "prize": 15
+    },
+    {
+      "rank": 3,
+      "masked": "Dirsty",
+      "hash": "51a54b22bf3f6d0b",
+      "wagered": 164.18,
+      "prize": 10
+    },
+    {
+      "rank": 4,
+      "masked": "foxlocks",
+      "hash": "9b2e7e13f86fe531",
+      "wagered": 145.12,
+      "prize": 0
+    },
+    {
+      "rank": 5,
+      "masked": "rock92",
+      "hash": "441d84a5df86fba2",
+      "wagered": 42.82,
+      "prize": 0
+    },
+    {
+      "rank": 6,
+      "masked": "Pottyap",
+      "hash": "9c43543769951b21",
+      "wagered": 0.62,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "SjZoro",
+      "hash": "f245318d5ba7744c",
+      "wagered": 0.05,
+      "prize": 0
+    }
+  ]
+}
