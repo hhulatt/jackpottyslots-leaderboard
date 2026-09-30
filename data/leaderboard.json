@@ -15,23 +15,23 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 30540.38,
-  "playerCount": 21,
-  "cacheUpdatedAt": "2026-09-29 05:07:54",
-  "updatedAt": "2026-09-29T05:07:54.872Z",
+  "totalWagered": 30628.89,
+  "playerCount": 22,
+  "cacheUpdatedAt": "2026-09-30 01:49:06",
+  "updatedAt": "2026-09-30T01:49:06.248Z",
   "entries": [
     {
       "rank": 1,
       "masked": "maisiemoo69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 22455.55,
+      "wagered": 22501.17,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "JustPotty",
       "hash": "5e7091c445cad317",
-      "wagered": 4836.61,
+      "wagered": 4839.31,
       "prize": 60
     },
     {
@@ -59,14 +59,14 @@
       "rank": 6,
       "masked": "foxlocks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 381,
+      "wagered": 381.96,
       "prize": 0
     },
     {
       "rank": 7,
       "masked": "SjZoro",
       "hash": "f245318d5ba7744c",
-      "wagered": 183.11,
+      "wagered": 211.08,
       "prize": 0
     },
     {
@@ -115,53 +115,60 @@
       "rank": 14,
       "masked": "111gambles",
       "hash": "71e9a05274aad621",
-      "wagered": 11.92,
+      "wagered": 12.01,
       "prize": 0
     },
     {
       "rank": 15,
+      "masked": "Bwood03",
+      "hash": "68bddf561ddae900",
+      "wagered": 11.16,
+      "prize": 0
+    },
+    {
+      "rank": 16,
       "masked": "olligam3",
       "hash": "be9b435c82a8e1d5",
       "wagered": 10.22,
       "prize": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "masked": "SupratenfromMd",
       "hash": "c73b8abf7d071340",
       "wagered": 9.12,
       "prize": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "masked": "Jackthegoat23",
       "hash": "3bb72db271d47119",
       "wagered": 9.02,
       "prize": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "masked": "catpot",
       "hash": "8d39fd93ebaf6bfc",
       "wagered": 7.42,
       "prize": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "masked": "Darkxpotty",
       "hash": "5a10919bfbbfb6c9",
       "wagered": 3.75,
       "prize": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "masked": "Vromvroma",
       "hash": "4a7a9d4121e5a048",
       "wagered": 3.75,
       "prize": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "masked": "BadaPotty",
       "hash": "c95964549ab7fdc1",
       "wagered": 1.9,
