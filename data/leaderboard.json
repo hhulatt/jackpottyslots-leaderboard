@@ -15,65 +15,72 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 1650.65,
-  "playerCount": 8,
-  "cacheUpdatedAt": "2026-10-02 04:57:14",
-  "updatedAt": "2026-10-02T04:57:14.970Z",
+  "totalWagered": 2771.66,
+  "playerCount": 9,
+  "cacheUpdatedAt": "2026-10-03 01:42:26",
+  "updatedAt": "2026-10-03T01:42:26.764Z",
   "entries": [
     {
       "rank": 1,
       "masked": "maisiemoo69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 781.99,
+      "wagered": 1562.09,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "JustPotty",
       "hash": "5e7091c445cad317",
-      "wagered": 661.49,
+      "wagered": 695.25,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "foxlocks",
-      "hash": "9b2e7e13f86fe531",
-      "wagered": 121.11,
+      "masked": "Pottyap",
+      "hash": "9c43543769951b21",
+      "wagered": 336.91,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Pottyap",
-      "hash": "9c43543769951b21",
-      "wagered": 54.78,
+      "masked": "foxlocks",
+      "hash": "9b2e7e13f86fe531",
+      "wagered": 121.28,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "Terry01233",
-      "hash": "a50f97064a80e5e0",
-      "wagered": 20.39,
+      "masked": "Dirsty",
+      "hash": "51a54b22bf3f6d0b",
+      "wagered": 24.9,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "Terry01233",
+      "hash": "a50f97064a80e5e0",
+      "wagered": 20.39,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "SjZoro",
       "hash": "f245318d5ba7744c",
       "wagered": 10.71,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "111gambles",
       "hash": "71e9a05274aad621",
       "wagered": 0.11,
       "prize": 0
     },
     {
-      "rank": 8,
-      "masked": "Dirsty",
-      "hash": "51a54b22bf3f6d0b",
-      "wagered": 0.08,
+      "rank": 9,
+      "masked": "Bwood03",
+      "hash": "68bddf561ddae900",
+      "wagered": 0.01,
       "prize": 0
     }
   ]
