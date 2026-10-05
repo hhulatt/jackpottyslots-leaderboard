@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-09-28",
-  "periodStart": "2026-09-28",
-  "periodEnd": "2026-10-04",
+  "cycle": "2026-10-05",
+  "periodStart": "2026-10-05",
+  "periodEnd": "2026-10-11",
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -13,73 +13,24 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 5114.95,
-  "playerCount": 9,
-  "cacheUpdatedAt": "2026-10-04 05:11:55",
-  "updatedAt": "2026-10-04T05:11:56.037Z",
+  "totalWagered": 49.33,
+  "playerCount": 2,
+  "cacheUpdatedAt": "2026-10-05 01:34:22",
+  "updatedAt": "2026-10-05T01:34:22.804Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "maisiemoo69",
-      "hash": "d51c7b5bbc625c75",
-      "wagered": 2864.06,
+      "masked": "foxlocks",
+      "hash": "9b2e7e13f86fe531",
+      "wagered": 49.12,
       "prize": 25
     },
     {
       "rank": 2,
-      "masked": "JustPotty",
-      "hash": "5e7091c445cad317",
-      "wagered": 1425.37,
-      "prize": 15
-    },
-    {
-      "rank": 3,
-      "masked": "Pottyap",
-      "hash": "9c43543769951b21",
-      "wagered": 337.97,
-      "prize": 10
-    },
-    {
-      "rank": 4,
-      "masked": "foxlocks",
-      "hash": "9b2e7e13f86fe531",
-      "wagered": 257.27,
-      "prize": 0
-    },
-    {
-      "rank": 5,
-      "masked": "SjZoro",
-      "hash": "f245318d5ba7744c",
-      "wagered": 92.83,
-      "prize": 0
-    },
-    {
-      "rank": 6,
-      "masked": "111gambles",
-      "hash": "71e9a05274aad621",
-      "wagered": 54.53,
-      "prize": 0
-    },
-    {
-      "rank": 7,
       "masked": "Dirsty",
       "hash": "51a54b22bf3f6d0b",
-      "wagered": 51.31,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "Terry01233",
-      "hash": "a50f97064a80e5e0",
-      "wagered": 20.39,
-      "prize": 0
-    },
-    {
-      "rank": 9,
-      "masked": "Bwood03",
-      "hash": "68bddf561ddae900",
-      "wagered": 11.21,
-      "prize": 0
+      "wagered": 0.21,
+      "prize": 15
     }
   ]
 }

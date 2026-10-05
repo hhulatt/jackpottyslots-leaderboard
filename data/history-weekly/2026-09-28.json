@@ -1,86 +1,84 @@
 {
-  "cycle": "2026-10-01",
-  "periodStart": "2026-10-01",
-  "periodEnd": "2026-10-31",
-  "cycleMode": "monthly",
+  "cycle": "2026-09-28",
+  "periodStart": "2026-09-28",
+  "periodEnd": "2026-10-04",
+  "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
   "fullUsernames": true,
-  "prizePool": 250,
+  "prizePool": 50,
   "prizes": [
-    100,
-    60,
-    40,
-    30,
-    20
+    25,
+    15,
+    10
   ],
   "boardSize": 25,
-  "totalWagered": 3288.97,
+  "totalWagered": 5533.24,
   "playerCount": 9,
   "cacheUpdatedAt": "2026-10-05 01:34:22",
-  "updatedAt": "2026-10-05T01:34:22.525Z",
+  "updatedAt": "2026-10-05T01:34:23.015Z",
   "entries": [
     {
       "rank": 1,
       "masked": "maisiemoo69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 1732.92,
-      "prize": 100
+      "wagered": 3024.58,
+      "prize": 25
     },
     {
       "rank": 2,
       "masked": "JustPotty",
       "hash": "5e7091c445cad317",
-      "wagered": 713.69,
-      "prize": 60
+      "wagered": 1426.77,
+      "prize": 15
     },
     {
       "rank": 3,
       "masked": "Pottyap",
       "hash": "9c43543769951b21",
-      "wagered": 440.11,
-      "prize": 40
+      "wagered": 440.25,
+      "prize": 10
     },
     {
       "rank": 4,
       "masked": "foxlocks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 292.58,
-      "prize": 30
+      "wagered": 379.45,
+      "prize": 0
     },
     {
       "rank": 5,
-      "masked": "Dirsty",
-      "hash": "51a54b22bf3f6d0b",
-      "wagered": 56.91,
-      "prize": 20
+      "masked": "SjZoro",
+      "hash": "f245318d5ba7744c",
+      "wagered": 92.97,
+      "prize": 0
     },
     {
       "rank": 6,
-      "masked": "111gambles",
-      "hash": "71e9a05274aad621",
-      "wagered": 20.41,
+      "masked": "Dirsty",
+      "hash": "51a54b22bf3f6d0b",
+      "wagered": 83.11,
       "prize": 0
     },
     {
       "rank": 7,
+      "masked": "111gambles",
+      "hash": "71e9a05274aad621",
+      "wagered": 54.53,
+      "prize": 0
+    },
+    {
+      "rank": 8,
       "masked": "Terry01233",
       "hash": "a50f97064a80e5e0",
       "wagered": 20.39,
       "prize": 0
     },
     {
-      "rank": 8,
-      "masked": "SjZoro",
-      "hash": "f245318d5ba7744c",
-      "wagered": 11.92,
-      "prize": 0
-    },
-    {
       "rank": 9,
       "masked": "Bwood03",
       "hash": "68bddf561ddae900",
-      "wagered": 0.04,
+      "wagered": 11.21,
       "prize": 0
     }
   ]
