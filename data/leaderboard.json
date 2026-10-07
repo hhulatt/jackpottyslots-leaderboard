@@ -6,54 +6,54 @@
   "cycleStartDay": 1,
   "timezone": "Europe/London",
   "fullUsernames": true,
-  "prizePool": 250,
+  "prizePool": 500,
   "prizes": [
-    100,
+    200,
+    120,
+    80,
     60,
-    40,
-    30,
-    20
+    40
   ],
   "boardSize": 25,
-  "totalWagered": 4362.5,
+  "totalWagered": 4492.78,
   "playerCount": 11,
-  "cacheUpdatedAt": "2026-10-07 05:15:26",
-  "updatedAt": "2026-10-07T05:15:26.652Z",
+  "cacheUpdatedAt": "2026-10-07 10:32:16",
+  "updatedAt": "2026-10-07T10:32:16.516Z",
   "entries": [
     {
       "rank": 1,
       "masked": "maisiemoo69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 2290.11,
-      "prize": 100
+      "wagered": 2326.51,
+      "prize": 200
     },
     {
       "rank": 2,
       "masked": "JustPotty",
       "hash": "5e7091c445cad317",
-      "wagered": 1043.35,
-      "prize": 60
+      "wagered": 1067.08,
+      "prize": 120
     },
     {
       "rank": 3,
       "masked": "Pottyap",
       "hash": "9c43543769951b21",
-      "wagered": 469.29,
-      "prize": 40
+      "wagered": 469.48,
+      "prize": 80
     },
     {
       "rank": 4,
       "masked": "foxlocks",
       "hash": "9b2e7e13f86fe531",
       "wagered": 416.76,
-      "prize": 30
+      "prize": 60
     },
     {
       "rank": 5,
       "masked": "Dirsty",
       "hash": "51a54b22bf3f6d0b",
-      "wagered": 57.02,
-      "prize": 20
+      "wagered": 126.97,
+      "prize": 40
     },
     {
       "rank": 6,
