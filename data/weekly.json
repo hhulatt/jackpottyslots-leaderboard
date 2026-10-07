@@ -13,10 +13,10 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 1120.35,
+  "totalWagered": 1122.87,
   "playerCount": 11,
-  "cacheUpdatedAt": "2026-10-07 02:03:42",
-  "updatedAt": "2026-10-07T02:03:42.129Z",
+  "cacheUpdatedAt": "2026-10-07 05:15:26",
+  "updatedAt": "2026-10-07T05:15:26.759Z",
   "entries": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
       "rank": 2,
       "masked": "JustPotty",
       "hash": "5e7091c445cad317",
-      "wagered": 327.14,
+      "wagered": 329.66,
       "prize": 15
     },
     {
