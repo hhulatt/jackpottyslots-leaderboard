@@ -5,7 +5,7 @@
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
-  "fullUsernames": true,
+  "fullUsernames": false,
   "prizePool": 50,
   "prizes": [
     25,
@@ -15,96 +15,96 @@
   "boardSize": 25,
   "totalWagered": 2823.12,
   "playerCount": 13,
-  "cacheUpdatedAt": "2026-10-12 02:02:07",
-  "updatedAt": "2026-10-12T02:02:07.646Z",
+  "cacheUpdatedAt": "2026-10-14 15:50:44",
+  "updatedAt": "2026-10-14T15:50:44.798Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "maisiemoo69",
+      "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
       "wagered": 1621.48,
       "prize": 25
     },
     {
       "rank": 2,
-      "masked": "JustPotty",
+      "masked": "Ju*****ty",
       "hash": "5e7091c445cad317",
       "wagered": 440.08,
       "prize": 15
     },
     {
       "rank": 3,
-      "masked": "Dirsty",
+      "masked": "Di**ty",
       "hash": "51a54b22bf3f6d0b",
       "wagered": 297.98,
       "prize": 10
     },
     {
       "rank": 4,
-      "masked": "Pottyap",
+      "masked": "Po***ap",
       "hash": "9c43543769951b21",
       "wagered": 216.75,
       "prize": 0
     },
     {
       "rank": 5,
-      "masked": "foxlocks",
+      "masked": "fo****ks",
       "hash": "9b2e7e13f86fe531",
       "wagered": 178.53,
       "prize": 0
     },
     {
       "rank": 6,
-      "masked": "SjZoro",
+      "masked": "Sj**ro",
       "hash": "f245318d5ba7744c",
       "wagered": 28.93,
       "prize": 0
     },
     {
       "rank": 7,
-      "masked": "SupratenfromMd",
+      "masked": "Su**********Md",
       "hash": "c73b8abf7d071340",
       "wagered": 21.93,
       "prize": 0
     },
     {
       "rank": 8,
-      "masked": "potty99",
+      "masked": "po***99",
       "hash": "0eb57b00714b01f0",
       "wagered": 10.2,
       "prize": 0
     },
     {
       "rank": 9,
-      "masked": "Zaza22345",
+      "masked": "Za*****45",
       "hash": "1e5409a2378c9407",
       "wagered": 4.5,
       "prize": 0
     },
     {
       "rank": 10,
-      "masked": "liampotty",
+      "masked": "li*****ty",
       "hash": "7446e1186f873898",
       "wagered": 2.22,
       "prize": 0
     },
     {
       "rank": 11,
-      "masked": "Bwood03",
+      "masked": "Bw***03",
       "hash": "68bddf561ddae900",
       "wagered": 0.32,
       "prize": 0
     },
     {
       "rank": 12,
-      "masked": "111gambles",
+      "masked": "11******es",
       "hash": "71e9a05274aad621",
       "wagered": 0.16,
       "prize": 0
     },
     {
       "rank": 13,
-      "masked": "Terry01233",
+      "masked": "Te******33",
       "hash": "a50f97064a80e5e0",
       "wagered": 0.02,
       "prize": 0
