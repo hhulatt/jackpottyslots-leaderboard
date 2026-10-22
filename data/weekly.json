@@ -13,23 +13,23 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 2422.89,
-  "playerCount": 10,
-  "cacheUpdatedAt": "2026-10-21 04:03:07",
-  "updatedAt": "2026-10-21T04:03:07.173Z",
+  "totalWagered": 3188.51,
+  "playerCount": 11,
+  "cacheUpdatedAt": "2026-10-22 01:11:13",
+  "updatedAt": "2026-10-22T01:11:13.394Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "Bo********99",
-      "hash": "791b64e7e8a67f3f",
-      "wagered": 591.35,
+      "masked": "Ju*****ty",
+      "hash": "5e7091c445cad317",
+      "wagered": 1075.49,
       "prize": 25
     },
     {
       "rank": 2,
-      "masked": "Ju*****ty",
-      "hash": "5e7091c445cad317",
-      "wagered": 588.28,
+      "masked": "Bo********99",
+      "hash": "791b64e7e8a67f3f",
+      "wagered": 677.43,
       "prize": 15
     },
     {
@@ -43,46 +43,53 @@
       "rank": 4,
       "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 325.01,
+      "wagered": 337.45,
       "prize": 0
     },
     {
       "rank": 5,
       "masked": "Po***ap",
       "hash": "9c43543769951b21",
-      "wagered": 272,
+      "wagered": 334.02,
       "prize": 0
     },
     {
       "rank": 6,
       "masked": "fo****ks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 232.03,
+      "wagered": 323.41,
       "prize": 0
     },
     {
       "rank": 7,
+      "masked": "ol****m3",
+      "hash": "be9b435c82a8e1d5",
+      "wagered": 26.49,
+      "prize": 0
+    },
+    {
+      "rank": 8,
       "masked": "Ro********ty",
       "hash": "a2dce61f8338361f",
       "wagered": 20.3,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "Sj**ro",
       "hash": "f245318d5ba7744c",
       "wagered": 14.48,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "Di**ty",
       "hash": "51a54b22bf3f6d0b",
       "wagered": 7.04,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "Za*****45",
       "hash": "1e5409a2378c9407",
       "wagered": 0.46,
