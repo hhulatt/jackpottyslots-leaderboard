@@ -13,51 +13,51 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 5343.38,
+  "totalWagered": 8665.17,
   "playerCount": 12,
-  "cacheUpdatedAt": "2026-10-24 04:00:13",
-  "updatedAt": "2026-10-24T04:00:13.949Z",
+  "cacheUpdatedAt": "2026-10-25 00:47:43",
+  "updatedAt": "2026-10-25T00:47:43.391Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Ju*****ty",
       "hash": "5e7091c445cad317",
-      "wagered": 2329.58,
+      "wagered": 5485.22,
       "prize": 25
     },
     {
       "rank": 2,
       "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 1143.39,
+      "wagered": 1144.88,
       "prize": 15
     },
     {
       "rank": 3,
       "masked": "Bo********99",
       "hash": "791b64e7e8a67f3f",
-      "wagered": 678.51,
+      "wagered": 789.94,
       "prize": 10
     },
     {
       "rank": 4,
-      "masked": "Po********er",
-      "hash": "26d9b7367044f5dd",
-      "wagered": 395.61,
+      "masked": "Po***ap",
+      "hash": "9c43543769951b21",
+      "wagered": 446.17,
       "prize": 0
     },
     {
       "rank": 5,
-      "masked": "Po***ap",
-      "hash": "9c43543769951b21",
-      "wagered": 393.99,
+      "masked": "Po********er",
+      "hash": "26d9b7367044f5dd",
+      "wagered": 396.61,
       "prize": 0
     },
     {
       "rank": 6,
       "masked": "fo****ks",
       "hash": "9b2e7e13f86fe531",
-      "wagered": 324,
+      "wagered": 324.05,
       "prize": 0
     },
     {
