@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-10-19",
-  "periodStart": "2026-10-19",
-  "periodEnd": "2026-10-25",
+  "cycle": "2026-10-26",
+  "periodStart": "2026-10-26",
+  "periodEnd": "2026-11-01",
   "cycleMode": "weekly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -13,94 +13,24 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 8665.17,
-  "playerCount": 12,
-  "cacheUpdatedAt": "2026-10-25 04:01:06",
-  "updatedAt": "2026-10-25T04:01:06.860Z",
+  "totalWagered": 389.38,
+  "playerCount": 2,
+  "cacheUpdatedAt": "2026-10-26 00:58:10",
+  "updatedAt": "2026-10-26T00:58:10.417Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Ju*****ty",
       "hash": "5e7091c445cad317",
-      "wagered": 5485.22,
+      "wagered": 389.2,
       "prize": 25
     },
     {
       "rank": 2,
       "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 1144.88,
+      "wagered": 0.18,
       "prize": 15
-    },
-    {
-      "rank": 3,
-      "masked": "Bo********99",
-      "hash": "791b64e7e8a67f3f",
-      "wagered": 789.94,
-      "prize": 10
-    },
-    {
-      "rank": 4,
-      "masked": "Po***ap",
-      "hash": "9c43543769951b21",
-      "wagered": 446.17,
-      "prize": 0
-    },
-    {
-      "rank": 5,
-      "masked": "Po********er",
-      "hash": "26d9b7367044f5dd",
-      "wagered": 396.61,
-      "prize": 0
-    },
-    {
-      "rank": 6,
-      "masked": "fo****ks",
-      "hash": "9b2e7e13f86fe531",
-      "wagered": 324.05,
-      "prize": 0
-    },
-    {
-      "rank": 7,
-      "masked": "ol****m3",
-      "hash": "be9b435c82a8e1d5",
-      "wagered": 26.49,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "Ro********ty",
-      "hash": "a2dce61f8338361f",
-      "wagered": 20.3,
-      "prize": 0
-    },
-    {
-      "rank": 9,
-      "masked": "Sj**ro",
-      "hash": "f245318d5ba7744c",
-      "wagered": 14.48,
-      "prize": 0
-    },
-    {
-      "rank": 10,
-      "masked": "st**********ts",
-      "hash": "4e0757ae371fea80",
-      "wagered": 9.18,
-      "prize": 0
-    },
-    {
-      "rank": 11,
-      "masked": "Di**ty",
-      "hash": "51a54b22bf3f6d0b",
-      "wagered": 7.41,
-      "prize": 0
-    },
-    {
-      "rank": 12,
-      "masked": "Za*****45",
-      "hash": "1e5409a2378c9407",
-      "wagered": 0.46,
-      "prize": 0
     }
   ]
 }
