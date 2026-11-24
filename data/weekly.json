@@ -13,34 +13,90 @@
     10
   ],
   "boardSize": 25,
-  "totalWagered": 2.8,
-  "playerCount": 4,
-  "cacheUpdatedAt": "2026-11-23 06:47:47",
-  "updatedAt": "2026-11-23T06:47:47.367Z",
+  "totalWagered": 1437.78,
+  "playerCount": 12,
+  "cacheUpdatedAt": "2026-11-24 06:43:06",
+  "updatedAt": "2026-11-24T06:43:06.650Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "Ke*****ps",
-      "hash": "7c81141dc52b80b1",
-      "wagered": 2.36,
+      "masked": "ma*******69",
+      "hash": "d51c7b5bbc625c75",
+      "wagered": 576.19,
       "prize": 25
     },
     {
       "rank": 2,
-      "masked": "Bo********99",
-      "hash": "791b64e7e8a67f3f",
-      "wagered": 0.28,
+      "masked": "St**********60",
+      "hash": "be5911dfda223c79",
+      "wagered": 292.07,
       "prize": 15
     },
     {
       "rank": 3,
-      "masked": "do*******jo",
-      "hash": "12549eb203d94371",
-      "wagered": 0.1,
+      "masked": "Ni****88",
+      "hash": "fd8070540a70e21c",
+      "wagered": 138.79,
       "prize": 10
     },
     {
       "rank": 4,
+      "masked": "j***x",
+      "hash": "009bb331d3fd03df",
+      "wagered": 137.97,
+      "prize": 0
+    },
+    {
+      "rank": 5,
+      "masked": "Ju*****ty",
+      "hash": "5e7091c445cad317",
+      "wagered": 128.46,
+      "prize": 0
+    },
+    {
+      "rank": 6,
+      "masked": "Bo********99",
+      "hash": "791b64e7e8a67f3f",
+      "wagered": 109.38,
+      "prize": 0
+    },
+    {
+      "rank": 7,
+      "masked": "ri*****92",
+      "hash": "5c924ab0d7029d43",
+      "wagered": 30.89,
+      "prize": 0
+    },
+    {
+      "rank": 8,
+      "masked": "Ke*****ps",
+      "hash": "7c81141dc52b80b1",
+      "wagered": 23,
+      "prize": 0
+    },
+    {
+      "rank": 9,
+      "masked": "ha*******aw",
+      "hash": "6ea4e3ece5561866",
+      "wagered": 0.79,
+      "prize": 0
+    },
+    {
+      "rank": 10,
+      "masked": "do*******jo",
+      "hash": "12549eb203d94371",
+      "wagered": 0.1,
+      "prize": 0
+    },
+    {
+      "rank": 11,
+      "masked": "Gr*****ty",
+      "hash": "66b8aba205fb3892",
+      "wagered": 0.08,
+      "prize": 0
+    },
+    {
+      "rank": 12,
       "masked": "fo****ks",
       "hash": "9b2e7e13f86fe531",
       "wagered": 0.06,
