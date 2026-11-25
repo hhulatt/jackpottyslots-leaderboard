@@ -15,10 +15,10 @@
     40
   ],
   "boardSize": 25,
-  "totalWagered": 144266.35,
+  "totalWagered": 144561.17,
   "playerCount": 25,
-  "cacheUpdatedAt": "2026-11-24 09:14:31",
-  "updatedAt": "2026-11-24T09:14:31.576Z",
+  "cacheUpdatedAt": "2026-11-25 05:13:21",
+  "updatedAt": "2026-11-25T05:13:21.673Z",
   "entries": [
     {
       "rank": 1,
@@ -31,49 +31,49 @@
       "rank": 2,
       "masked": "Ke*****ps",
       "hash": "7c81141dc52b80b1",
-      "wagered": 37742.46,
+      "wagered": 37941.87,
       "prize": 120
     },
     {
       "rank": 3,
       "masked": "St**********60",
       "hash": "be5911dfda223c79",
-      "wagered": 17310.69,
+      "wagered": 17399.33,
       "prize": 80
     },
     {
       "rank": 4,
       "masked": "Bo********99",
       "hash": "791b64e7e8a67f3f",
-      "wagered": 5241.99,
+      "wagered": 5243.68,
       "prize": 60
     },
     {
       "rank": 5,
       "masked": "ma*******69",
       "hash": "d51c7b5bbc625c75",
-      "wagered": 4666.68,
+      "wagered": 4667.1,
       "prize": 40
     },
     {
       "rank": 6,
       "masked": "ri*****92",
       "hash": "5c924ab0d7029d43",
-      "wagered": 1758.31,
+      "wagered": 1760.31,
       "prize": 0
     },
     {
       "rank": 7,
       "masked": "do*******jo",
       "hash": "12549eb203d94371",
-      "wagered": 1411.86,
+      "wagered": 1411.93,
       "prize": 0
     },
     {
       "rank": 8,
       "masked": "Po***ap",
       "hash": "9c43543769951b21",
-      "wagered": 1184.17,
+      "wagered": 1186.44,
       "prize": 0
     },
     {
@@ -94,14 +94,14 @@
       "rank": 11,
       "masked": "Gr*****ty",
       "hash": "66b8aba205fb3892",
-      "wagered": 728.34,
+      "wagered": 728.44,
       "prize": 0
     },
     {
       "rank": 12,
       "masked": "j***x",
       "hash": "009bb331d3fd03df",
-      "wagered": 553.31,
+      "wagered": 553.46,
       "prize": 0
     },
     {
@@ -129,7 +129,7 @@
       "rank": 16,
       "masked": "Sj**ro",
       "hash": "f245318d5ba7744c",
-      "wagered": 55.12,
+      "wagered": 55.18,
       "prize": 0
     },
     {
